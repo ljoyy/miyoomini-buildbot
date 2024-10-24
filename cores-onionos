@@ -1,1 +1,1 @@
-mgba libretro-mgba https://github.com/ljoyy/libretro-mgba.git master YES GENERIC Makefile.libretro .
+mgba libretro-mgba https://github.com/libretro/mgba.git master YES GENERIC Makefile.libretro .
